@@ -72,14 +72,12 @@ h2 {
 .img {
 	width: 80vw;
 	display: flex;
-	justify-content: center;
+	justify-content: space-around;
 }
 
 .img img {
-	width: 20%;
-	height: 20%;
-	margin-left: 4vw;
-	margin-right: 4vw;
+	width: 45%;
+	height: 45%;
 }
 
 .text {
